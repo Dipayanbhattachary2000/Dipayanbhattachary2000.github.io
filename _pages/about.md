@@ -13,7 +13,7 @@ I'm Dipayan Bhattacharya, a clinical psychology researcher with a particular pas
 
 Research Experience
 ======
-My research journey through my BA and MA degrees has led me to explore diverse areas of psychology, from conducting comprehensive well-being studies of educational staff to analyzing motivational patterns in experimental settings. My dissertation is a detailed report of my work on "Assessment of Psychological well-being, Work Motivation and mindfulness among Teaching & Non-Teaching Employee in Academic sector". Feel free to explore my other projects, dissertation, including my studies on psychological well-being and employee motivation at the [Projects](https://dipayanbhattachary2000.github.io/projects) tab. I'm also proud of my certification in sports psychology, where I achieved a 99% score in an assessment by NPTEL, which is an example of how I combine my interests with my expertise.
+My research journey through my BA and MA degrees has led me to explore diverse areas of psychology, from conducting comprehensive well-being studies of educational staff to analyzing motivational patterns in experimental settings. My dissertation is a detailed report of my work on "Assessment of Psychological well-being, Work Motivation and mindfulness among Teaching & Non-Teaching Employee in Academic sector". Feel free to explore my other projects, dissertation, including my studies on psychological well-being and employee motivation at the [Projects](https://dipayanbhattachary2000.github.io/publications) tab. I'm also proud of my certification in sports psychology, where I achieved a 99% score in an assessment by NPTEL, which is an example of how I combine my interests with my expertise.
 
 Work Experience
 ======
