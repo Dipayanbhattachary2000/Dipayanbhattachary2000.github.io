@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Find it [here at Overleaf](https://www.overleaf.com/read/kkmkmqvyffnh#b3d198) or [here on Google Drive](https://drive.google.com/file/d/1gSuksu8xYCEoxRwkKpVX7FIInuRp6bUu/view?usp=drive_link).
+Find it [here on Google Drive](https://drive.google.com/file/d/1gSuksu8xYCEoxRwkKpVX7FIInuRp6bUu/view?usp=drive_link).
